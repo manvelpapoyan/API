@@ -1,0 +1,15 @@
+#countries {
+  display: flex;
+}
+.countryName {
+  cursor: pointer;
+  padding: 2px;
+  color: blue;
+}
+#selectedCountry {
+  display: flex;
+}
+.flag {
+  width: 100px;
+  border-radius: 1px;
+}
